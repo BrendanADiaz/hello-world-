@@ -1,2 +1,6 @@
 # hello-world-
-you name it
+hello mortals 
+
+my name is brendan and i am here to learn
+
+
